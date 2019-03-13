@@ -40,6 +40,6 @@ switch(age) {
   case "15":
   return "You are a teenager";
   break;
-  
+
 }
 }
